@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="32" viewBox="0 0 116 32" role="img" aria-label="Русский">
+  <title>Русский</title>
+  <defs><filter id="g" x="-40%" y="-80%" width="180%" height="260%" color-interpolation-filters="sRGB">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3.5" result="b"/>
+      <feFlood flood-color="#FF2BD6" flood-opacity="0.8"/>
+      <feComposite in2="b" operator="in" result="g"/>
+      <feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter></defs>
+  <rect x="1.5" y="1.5" width="113" height="29" rx="14.5" fill="none" stroke="#FF2BD6" stroke-width="2" opacity="0.8" filter="url(#g)"/>
+  <rect x="1.5" y="1.5" width="113" height="29" rx="14.5" fill="#0D1222" stroke="#FF2BD6" stroke-width="1.5"/>
+  <text x="17" y="20.5" font-family="'Fira Code', 'JetBrains Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#FF2BD6">RU</text>
+  <rect x="43" y="9" width="1.2" height="14" rx="0.6" fill="#FF2BD6" opacity="0.45"/>
+  <text x="54" y="21" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Русский</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="32" viewBox="0 0 116 32" role="img" aria-label="English">
+  <title>English</title>
+  <defs><filter id="g" x="-40%" y="-80%" width="180%" height="260%" color-interpolation-filters="sRGB">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3.5" result="b"/>
+      <feFlood flood-color="#00F0FF" flood-opacity="1"/>
+      <feComposite in2="b" operator="in" result="g"/>
+      <feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter></defs>
+  <rect x="1.5" y="1.5" width="113" height="29" rx="14.5" fill="none" stroke="#00F0FF" stroke-width="2" opacity="0.8" filter="url(#g)"/>
+  <rect x="1.5" y="1.5" width="113" height="29" rx="14.5" fill="#00F0FF" stroke="#00F0FF" stroke-width="1.5"/>
+  <text x="17" y="20.5" font-family="'Fira Code', 'JetBrains Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="12" font-weight="700" letter-spacing="1" fill="#070B17">EN</text>
+  <rect x="43" y="9" width="1.2" height="14" rx="0.6" fill="#070B17" opacity="0.5"/>
+  <text x="54" y="21" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#070B17">English</text>
+</svg>
