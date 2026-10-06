@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="68" viewBox="0 0 220 68" role="img" aria-label="Twitch: sowa_dev">
+  <title>Twitch: sowa_dev</title>
+  <defs><filter id="g" x="-40%" y="-80%" width="180%" height="260%" color-interpolation-filters="sRGB">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="4" result="b"/>
+      <feFlood flood-color="#B266FF" flood-opacity="0.9"/>
+      <feComposite in2="b" operator="in" result="g"/>
+      <feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter></defs>
+  <rect x="1.5" y="1.5" width="217" height="65" rx="14" fill="none" stroke="#B266FF" stroke-width="2" opacity="0.8" filter="url(#g)"/>
+  <rect x="1.5" y="1.5" width="217" height="65" rx="14" fill="#0D1222" stroke="#B266FF" stroke-width="1.5"/>
+  <rect x="14" y="14" width="40" height="40" rx="11" fill="#B266FF" fill-opacity="0.13" stroke="#B266FF" stroke-opacity="0.4"/>
+  <path transform="translate(22 22)" fill="#B266FF" d="M11.571 4.714h1.715v5.143H11.57zm4.715 0H18v5.143h-1.714zM6 0L1.714 4.286v15.428h5.143V24l4.286-4.286h3.428L22.286 12V0zm14.571 11.143l-3.428 3.428h-3.429l-3 3v-3H6.857V1.714h13.714Z"/>
+  <text x="64" y="31" fill="#FFFFFF" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700">Twitch</text>
+  <text x="64" y="50" fill="#B266FF" font-family="'Fira Code', 'JetBrains Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="10.5">sowa_dev</text>
+</svg>

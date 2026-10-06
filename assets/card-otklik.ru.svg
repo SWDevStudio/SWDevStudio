@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="190" viewBox="0 0 500 190" role="img" aria-label="otklik-kit. Набор для Claude Code: сопроводительные письма, подбор вакансий и резюме на hh.ru. Скрипты разбирают страницы, агенты пишут и проверяют письма.">
+  <title>otklik-kit</title>
+  <defs><filter id="g" x="-40%" y="-80%" width="180%" height="260%" color-interpolation-filters="sRGB">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="4" result="b"/>
+      <feFlood flood-color="#00F0FF" flood-opacity="0.85"/>
+      <feComposite in2="b" operator="in" result="g"/>
+      <feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter><filter id="t" x="-40%" y="-80%" width="180%" height="260%" color-interpolation-filters="sRGB">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="4" result="b"/>
+      <feFlood flood-color="#00F0FF" flood-opacity="0.55"/>
+      <feComposite in2="b" operator="in" result="g"/>
+      <feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter></defs>
+  <rect x="2" y="2" width="496" height="186" rx="14" fill="none" stroke="#00F0FF" stroke-width="2" opacity="0.7" filter="url(#g)"/>
+  <rect x="2" y="2" width="496" height="186" rx="14" fill="#0D1222" stroke="#00F0FF" stroke-width="1.5"/>
+  <path d="M2 30h496" stroke="#00F0FF" stroke-opacity="0.25"/>
+  <circle cx="20" cy="16" r="4" fill="#FF5F56" opacity="0.85"/><circle cx="34" cy="16" r="4" fill="#FFBD2E" opacity="0.85"/><circle cx="48" cy="16" r="4" fill="#27C93F" opacity="0.85"/>
+  <text x="66" y="20" font-family="'Fira Code', 'JetBrains Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="11" fill="#6B7694">~/projects/otklik-kit</text>
+  <text x="24" y="62" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="21" font-weight="700" fill="#FFFFFF" filter="url(#t)">otklik-kit</text>
+  <text x="24" y="84" font-family="'Fira Code', 'JetBrains Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="11.5" fill="#00F0FF">Claude Code · Bun · JavaScript</text>
+  <text x="24" y="112" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#B6C0D6">Набор для Claude Code: сопроводительные письма, подбор</text>
+  <text x="24" y="131" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#B6C0D6">вакансий и резюме на hh.ru. Скрипты разбирают страницы, агенты</text>
+  <text x="24" y="150" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#B6C0D6">пишут и проверяют письма.</text>
+</svg>

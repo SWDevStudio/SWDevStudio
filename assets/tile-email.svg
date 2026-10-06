@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="68" viewBox="0 0 220 68" role="img" aria-label="Email: swdevstudio@gmail.com">
+  <title>Email: swdevstudio@gmail.com</title>
+  <defs><filter id="g" x="-40%" y="-80%" width="180%" height="260%" color-interpolation-filters="sRGB">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="4" result="b"/>
+      <feFlood flood-color="#FF4D6A" flood-opacity="0.9"/>
+      <feComposite in2="b" operator="in" result="g"/>
+      <feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter></defs>
+  <rect x="1.5" y="1.5" width="217" height="65" rx="14" fill="none" stroke="#FF4D6A" stroke-width="2" opacity="0.8" filter="url(#g)"/>
+  <rect x="1.5" y="1.5" width="217" height="65" rx="14" fill="#0D1222" stroke="#FF4D6A" stroke-width="1.5"/>
+  <rect x="14" y="14" width="40" height="40" rx="11" fill="#FF4D6A" fill-opacity="0.13" stroke="#FF4D6A" stroke-opacity="0.4"/>
+  <path transform="translate(22 22)" fill="#FF4D6A" d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/>
+  <text x="64" y="31" fill="#FFFFFF" font-family="'Segoe UI', Inter, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700">Email</text>
+  <text x="64" y="50" fill="#FF4D6A" font-family="'Fira Code', 'JetBrains Mono', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="10.5">swdevstudio@gmail.com</text>
+</svg>
